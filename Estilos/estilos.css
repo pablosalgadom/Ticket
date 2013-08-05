@@ -1,0 +1,39 @@
+body
+{
+	background: #F5F8E7;
+	font-family: "PT Sans", Arial;
+	font-size: 16px;
+}
+#contrasena, #usuario
+{
+	display: block;
+	margin-left: 20%;
+
+}
+#ingresar
+{
+	background: #66A0F1;
+	border-radius: 0.5em;
+	color: #010412;
+	margin: 0 10em;
+	padding: 0.5em 1em;
+	text-decoration: none;
+}
+#link_olvido
+{
+	color:white;
+	display:block;
+}
+#login
+{
+	background: #48F59C;
+	border-radius: 1em;
+	display: block;
+	margin: 5% 25% 20% 25%;
+	position: relative;
+}
+#login #logo img
+{
+	width: 200px;
+	margin: 2em 5em 2em 5em;
+}
